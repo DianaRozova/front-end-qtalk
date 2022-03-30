@@ -1,0 +1,23 @@
+{
+  "app_name": "QTalk",
+  "lang": "language",
+  "en": "English",
+  "ru": "Russian",
+  "Contacts": "Contacts",
+  "Messages": "Messages",
+  "Settings": "Settings",
+  "LoginPage": {
+    "LoginHeader": "Log In",
+    "PhoneLabel": "Phone number",
+    "PasswordLabel": "Password",
+    "CreateAccountButton": "Create account",
+    "LoginButton": "Log in",
+    "LogOut": "Log out",
+    "NameLabel": "User Name",
+    "CreateAccountHeader": "Create Account",
+    "Cancel": "Cancel"
+  },
+  "ContactPage": {
+    "phone": "Telephone"
+  }
+}
